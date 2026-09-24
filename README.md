@@ -1,15 +1,50 @@
-# Hi there, I'm Waqas Mir
+# Hi, I'm Waqas Mir 👋
 
-I am a **Technical Writer & Content Strategist** focused on creating clear, structured documentation, content localization, and bridging the gap between language and digital spaces. 
+Technical writer and full-stack developer building practical web applications and clear technical documentation.
 
-### 🛠️ Core Skills
-* **Writing & Strategy:** Technical Documentation, Copy Editing, Structural Content Design, Technical Blogging.
-* **Tools & Technologies:** Markdown, Git, GitHub, HTML5, CSS3, Native JavaScript.
+## About Me
 
-### 📁 Featured Projects
-* **[PrivySearch](https://github.com/waqas-mir/privysearch):** A minimal, privacy-focused search engine application built using Node.js and Express, featuring on-demand local data controls and fully responsive layouts.
-* **[Movie Database](https://github.com/waqas-mir/movie-database):** A full-stack decoupled web application integrating a React frontend interface with a Python server and relational database tracking parameters.
+- Building web applications with JavaScript, React, Python, and Node.js
+- Interested in APIs, privacy-focused software, and clean system design
+- Improving my skills in full-stack development, databases, testing, and deployment
+- Enjoy explaining technical ideas in a simple and structured way
 
+## Technologies
 
----
-📫 **How to reach me:** [waqasmir2005@gmail.com]
+**Languages:** JavaScript, Python, HTML, CSS, SQL  
+**Frontend:** React, HTML5, CSS3  
+**Backend:** Node.js, Express, Python  
+**Tools:** Git, GitHub, REST APIs, Markdown
+
+## Featured Projects
+
+### [PrivySearch](https://github.com/waqas-mir/privysearch)
+
+A privacy-focused search application built with Node.js, Express, and JavaScript.
+
+- Responsive search interface
+- Server-side API routing
+- Privacy-conscious design
+- Temporary browser data controls
+
+### [Movie Database](https://github.com/waqas-mir/movie-database)
+
+A full-stack movie search and rating application built with React, Python, SQL, and the TMDB API.
+
+- Movie search and discovery
+- User rating functionality
+- React frontend
+- Python backend
+- External API integration
+
+## Current Goals
+
+- Build production-quality full-stack applications
+- Improve testing and deployment practices
+- Write clearer technical documentation
+- Contribute to open-source projects
+
+## Contact
+
+- Email: waqasmir2005@gmail.com
+- GitHub: [@waqas-mir](https://github.com/waqas-mir)
